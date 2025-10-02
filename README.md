@@ -5,17 +5,14 @@
 
 **A market intelligence dashboard that analyzes thousands of product launches to identify underserved, high-growth niches in the SaaS market.**
 
------
 
-##  Live Demo ✨
+
+##  Live Demo 
 
 **You can view and interact with the live, deployed dashboard at the following URL:**
 
 ### ➡️ **[https://e394127a-d32e-4c23-82a1-d062b190f56c.plotly.app](https://e394127a-d32e-4c23-82a1-d062b190f56c.plotly.app)**
 
------
-
-\*\*
 
 -----
 
@@ -48,7 +45,7 @@ This project was built following a standard data analytics workflow:
 
 -----
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
   * **Data Analysis:** Python, Pandas, Google Colab
   * **Dashboard & Deployment:** Plotly Studio, Plotly Cloud
